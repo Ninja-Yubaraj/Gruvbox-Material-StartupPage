@@ -1,6 +1,6 @@
 # Gruvbox Material Startup Page
 
-![](https://media.discordapp.net/attachments/633729087583682644/1006244785251700847/unknown.png)
+![](https://i.imgur.com/ZyXvSnU.png)
 
 Live preview: [here](https://ninja-yubaraj.github.io/Gruvbox-Material-StartupPage/)
 
